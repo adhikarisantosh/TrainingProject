@@ -1,0 +1,4 @@
+Steps to adde 
+
+git init  // this will init the folder for git
+git add test.txt  //  this will add file 
