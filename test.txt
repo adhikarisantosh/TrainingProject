@@ -2,3 +2,5 @@ Steps to adde
 
 git init  // this will init the folder for git
 git add test.txt  //  this will add file 
+git status // Now file should be dispalyed as new file: test.txt
+git commit -m "new file is added" // This commid will the file
